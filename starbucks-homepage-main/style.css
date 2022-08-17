@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 :root {
   --color-primary: #006241;
@@ -14,8 +14,8 @@
 
 html,
 body {
-  font-family: 'Ubuntu Condensed', sans-serif;
-  line-height: 1.4;
+  font-family: 'Poppins Regular', sans-serif;
+  line-height: 1.0;
   color: #000;
 }
 
@@ -29,7 +29,7 @@ ul {
 
 p {
   margin: 5px 0;
-  line-height: 1.7;
+  line-height: 1.5;
 }
 
 img {
@@ -236,7 +236,7 @@ section a {
 .text-xl {
   font-size: 50px;
   text-transform: uppercase;
-  letter-spacing: 6px;
+  letter-spacing: 2px;
   font-weight: 600;
   margin-bottom: 20px;
 }
